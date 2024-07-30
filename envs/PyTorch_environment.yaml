@@ -1,0 +1,12 @@
+name: lightning_tutorials
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch
+  - pytorch-cuda=12.1
+  - torchaudio
+  - torchvision
+  - ipykernel
+  - tqdm
+  - matplotlib
